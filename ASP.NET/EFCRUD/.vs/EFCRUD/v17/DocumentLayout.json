@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ayhan\\Desktop\\EFCRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10A116F8-2891-47CA-A184-199BCB9DC8EA}|EFCRUD\\EFCRUD.csproj|C:\\Users\\Ayhan\\Desktop\\EFCRUD\\efcrud\\controllers\\ilyonetimicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10A116F8-2891-47CA-A184-199BCB9DC8EA}|EFCRUD\\EFCRUD.csproj|solutionrelative:efcrud\\controllers\\ilyonetimicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10A116F8-2891-47CA-A184-199BCB9DC8EA}|EFCRUD\\EFCRUD.csproj|c:\\users\\ayhan\\desktop\\efcrud\\efcrud\\dal\\dbefcrudcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10A116F8-2891-47CA-A184-199BCB9DC8EA}|EFCRUD\\EFCRUD.csproj|solutionrelative:efcrud\\dal\\dbefcrudcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10A116F8-2891-47CA-A184-199BCB9DC8EA}|EFCRUD\\EFCRUD.csproj|c:\\users\\ayhan\\desktop\\efcrud\\efcrud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10A116F8-2891-47CA-A184-199BCB9DC8EA}|EFCRUD\\EFCRUD.csproj|solutionrelative:efcrud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10A116F8-2891-47CA-A184-199BCB9DC8EA}|EFCRUD\\EFCRUD.csproj|C:\\Users\\Ayhan\\Desktop\\EFCRUD\\efcrud\\views\\kullaniciyonetimi\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10A116F8-2891-47CA-A184-199BCB9DC8EA}|EFCRUD\\EFCRUD.csproj|solutionrelative:efcrud\\views\\kullaniciyonetimi\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10A116F8-2891-47CA-A184-199BCB9DC8EA}|EFCRUD\\EFCRUD.csproj|C:\\Users\\Ayhan\\Desktop\\EFCRUD\\efcrud\\controllers\\kullaniciyonetimicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10A116F8-2891-47CA-A184-199BCB9DC8EA}|EFCRUD\\EFCRUD.csproj|solutionrelative:efcrud\\controllers\\kullaniciyonetimicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10A116F8-2891-47CA-A184-199BCB9DC8EA}|EFCRUD\\EFCRUD.csproj|C:\\Users\\Ayhan\\Desktop\\EFCRUD\\efcrud\\views\\kullaniciyonetimi\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10A116F8-2891-47CA-A184-199BCB9DC8EA}|EFCRUD\\EFCRUD.csproj|solutionrelative:efcrud\\views\\kullaniciyonetimi\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ayhan\\Desktop\\EFCRUD\\EFCRUD\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EFCRUD\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Ayhan\\Desktop\\EFCRUD\\EFCRUD\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EFCRUD\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACIAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-08T07:13:55.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DbefcrudContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ayhan\\Desktop\\EFCRUD\\EFCRUD\\DAL\\DbefcrudContext.cs",
+              "RelativeDocumentMoniker": "EFCRUD\\DAL\\DbefcrudContext.cs",
+              "ToolTip": "C:\\Users\\Ayhan\\Desktop\\EFCRUD\\EFCRUD\\DAL\\DbefcrudContext.cs",
+              "RelativeToolTip": "EFCRUD\\DAL\\DbefcrudContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T06:56:57.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ilYonetimiController.cs",
+              "DocumentMoniker": "C:\\Users\\Ayhan\\Desktop\\EFCRUD\\EFCRUD\\Controllers\\ilYonetimiController.cs",
+              "RelativeDocumentMoniker": "EFCRUD\\Controllers\\ilYonetimiController.cs",
+              "ToolTip": "C:\\Users\\Ayhan\\Desktop\\EFCRUD\\EFCRUD\\Controllers\\ilYonetimiController.cs",
+              "RelativeToolTip": "EFCRUD\\Controllers\\ilYonetimiController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwCkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T06:50:29.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ayhan\\Desktop\\EFCRUD\\EFCRUD\\Views\\KullaniciYonetimi\\Edit.cshtml",
+              "RelativeDocumentMoniker": "EFCRUD\\Views\\KullaniciYonetimi\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Ayhan\\Desktop\\EFCRUD\\EFCRUD\\Views\\KullaniciYonetimi\\Edit.cshtml",
+              "RelativeToolTip": "EFCRUD\\Views\\KullaniciYonetimi\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-08T06:50:29.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KullaniciYonetimiController.cs",
+              "DocumentMoniker": "C:\\Users\\Ayhan\\Desktop\\EFCRUD\\EFCRUD\\Controllers\\KullaniciYonetimiController.cs",
+              "RelativeDocumentMoniker": "EFCRUD\\Controllers\\KullaniciYonetimiController.cs",
+              "ToolTip": "C:\\Users\\Ayhan\\Desktop\\EFCRUD\\EFCRUD\\Controllers\\KullaniciYonetimiController.cs",
+              "RelativeToolTip": "EFCRUD\\Controllers\\KullaniciYonetimiController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwDEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T06:50:29.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ayhan\\Desktop\\EFCRUD\\EFCRUD\\Views\\KullaniciYonetimi\\Create.cshtml",
+              "RelativeDocumentMoniker": "EFCRUD\\Views\\KullaniciYonetimi\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Ayhan\\Desktop\\EFCRUD\\EFCRUD\\Views\\KullaniciYonetimi\\Create.cshtml",
+              "RelativeToolTip": "EFCRUD\\Views\\KullaniciYonetimi\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-08T06:50:29.564Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

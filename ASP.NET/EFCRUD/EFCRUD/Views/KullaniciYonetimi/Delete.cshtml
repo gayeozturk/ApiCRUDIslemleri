@@ -1,0 +1,13 @@
+﻿@model EFCRUD.DAL.Kullanici
+
+<form action="/KullaniciYonetimi/Delete/@Model.Id" method="post">
+
+    @Html.AntiForgeryToken()
+
+    <label>
+        <strong>@Model.Ad @Model.Soyad </strong> Kullanıcısını
+        silmek istediğinize emin misiniz ?
+    </label>
+
+    <button type="submit">Evet</button>
+</form>

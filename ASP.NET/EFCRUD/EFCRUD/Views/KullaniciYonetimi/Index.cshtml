@@ -1,0 +1,37 @@
+﻿@model  List<EFCRUD.DAL.Kullanici>
+@{
+    ViewData["Title"] = "Kullanıcı Yönetimi";
+}
+
+<h1>Kullanıcı Listesi</h1>  
+
+<a href="/KullaniciYonetimi/Create"> Kullanıcı Ekle</a>
+
+<table class="table">
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @item.Ad
+            </td>
+            <td>
+                @item.Soyad
+            </td>
+            <td>
+                @item.Email
+            </td>
+            <td>
+                @item.Sifre
+            </td>
+            <td>
+                <a href="/KullaniciYonetimi/Edit/@(item.Id)">Güncelle</a>
+                <a href="/KullaniciYonetimi/Delete/@(item.Id)">Sil</a>
+            </td>
+        </tr>
+      
+     
+    }
+
+</table>
+

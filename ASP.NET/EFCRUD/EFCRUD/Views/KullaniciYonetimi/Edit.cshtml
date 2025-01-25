@@ -1,0 +1,19 @@
+﻿@model EFCRUD.DAL.Kullanici
+
+
+<form action="/KullaniciYonetimi/Edit" method="post">
+    @* EDİT İÇİN EN MNMLİ PARAMETRE PK alanı. Yani Id *@
+    @Html.HiddenFor(m => m.Id)
+
+    AD: @Html.EditorFor(m => m.Ad)
+
+    SOYAD:    @Html.EditorFor(m => m.Soyad)
+
+    EMAİL:  @Html.EditorFor(m => m.Email)
+
+    SİFRE:  @Html.EditorFor(m => m.Sifre)
+
+    ŞEHİR : @Html.DropDownList("IlId")
+
+    <button type="submit">Kaydet</button>
+</form>
